@@ -2,7 +2,9 @@
 
 ## Project Workflow
 
-
+<div align="center">
+<img alt-test="Project Workflow" src"https://github.com/user-attachments/assets/794e0ef7-3888-4e16-8966-68400a07b8ec">
+</div>
 
 
 ## Project Overview
@@ -24,7 +26,6 @@ Welcome to the documentation for **ShareSafely**, a secure file-sharing web appl
 - **Azure Key Vault**: Secure storage and management of application secrets.
 - **Azure Monitor**: Real-time monitoring and alerts for application health.
 - **Python (Flask)**: Backend framework used for application development.
-
 
 
 ## Setup and Configuration
@@ -82,6 +83,13 @@ The web application was deployed to **Azure Web Apps** using Visual Studio Code.
 
 ### Testing
 
+
+https://github.com/user-attachments/assets/7e286102-cf88-47b1-add3-d7aaa32b2c20
+
+
+![Test 1](https://github.com/user-attachments/assets/130182a7-11da-41b5-b964-2a48dc31c798)
+![Test 2 ](https://github.com/user-attachments/assets/6b584c46-a0e5-4e94-ab61-a2dfe06517cd)
+![Test 3](https://github.com/user-attachments/assets/1de023da-1420-4c4d-bb94-c742d59d1054)
 
 
 To confirm the functionality and security of the **ShareSafely** application, I conducted a comprehensive final test.
