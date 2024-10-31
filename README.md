@@ -2,7 +2,9 @@
 
 ## Project Workflow
 
-
+<div align="center">
+<img alt-text="Project Workflow" src="https://github.com/user-attachments/assets/794e0ef7-3888-4e16-8966-68400a07b8ec">
+</div>
 
 
 ## Project Overview
@@ -26,7 +28,6 @@ Welcome to the documentation for **ShareSafely**, a secure file-sharing web appl
 - **Python (Flask)**: Backend framework used for application development.
 
 
-
 ## Setup and Configuration
 
 ### Prerequisites
@@ -41,7 +42,7 @@ To get started with **ShareSafely**, you’ll need:
 
 #### 1. Azure Blob Storage Setup
 
-The first step is setting up an Azure Blob Storage account named `sharesafelystrg` with a container `uploads` dedicated to storing uploaded files. Key security configurations include:
+The first step is setting up an Azure Blob Storage account named `sharesafelyblob` with a container `uploads` dedicated to storing uploaded files. Key security configurations include:
 
 - Enabling **Secure Transfer Required** for encrypted connections
 - Disabling **Blob Anonymous Access** to ensure files are only accessed by authorized users
@@ -56,7 +57,7 @@ ShareSafelyApp/
 ├── templates/
 │ ├── upload.html
 │ └── link.html
-└── styles/
+└── static/
 └── styles.css 
 
 
@@ -83,6 +84,14 @@ The web application was deployed to **Azure Web Apps** using Visual Studio Code.
 ### Testing
 
 
+https://github.com/user-attachments/assets/7e286102-cf88-47b1-add3-d7aaa32b2c20
+
+![Test 2](https://github.com/user-attachments/assets/ae11b7f9-5e4d-445f-88eb-22e33b869ad4)
+
+![Test 3](https://github.com/user-attachments/assets/50a501bd-4f18-49db-b70d-4998aeb5a919)
+
+
+
 
 To confirm the functionality and security of the **ShareSafely** application, I conducted a comprehensive final test.
 
@@ -100,6 +109,10 @@ The testing video demonstrates the application's core functionality in a local e
 
 
 
+
+
+
+https://github.com/user-attachments/assets/19db6e54-ee21-43f8-9d78-76ee4c63ff04
 
 
 
