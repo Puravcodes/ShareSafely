@@ -86,6 +86,7 @@ The web application was deployed to **Azure Web Apps** using Visual Studio Code.
 
 https://github.com/user-attachments/assets/7e286102-cf88-47b1-add3-d7aaa32b2c20
 
+![Test 2](https://github.com/user-attachments/assets/ae11b7f9-5e4d-445f-88eb-22e33b869ad4)
 
 
 ![Test 3](https://github.com/user-attachments/assets/1de023da-1420-4c4d-bb94-c742d59d1054)
