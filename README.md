@@ -88,8 +88,9 @@ https://github.com/user-attachments/assets/7e286102-cf88-47b1-add3-d7aaa32b2c20
 
 ![Test 2](https://github.com/user-attachments/assets/ae11b7f9-5e4d-445f-88eb-22e33b869ad4)
 
+![Test 3](https://github.com/user-attachments/assets/50a501bd-4f18-49db-b70d-4998aeb5a919)
 
-![Test 3](https://github.com/user-attachments/assets/1de023da-1420-4c4d-bb94-c742d59d1054)
+
 
 
 To confirm the functionality and security of the **ShareSafely** application, I conducted a comprehensive final test.
@@ -108,6 +109,10 @@ The testing video demonstrates the application's core functionality in a local e
 
 
 
+
+
+
+https://github.com/user-attachments/assets/19db6e54-ee21-43f8-9d78-76ee4c63ff04
 
 
 
