@@ -42,7 +42,7 @@ To get started with **ShareSafely**, you’ll need:
 
 #### 1. Azure Blob Storage Setup
 
-The first step is setting up an Azure Blob Storage account named `sharesafelystrg` with a container `uploads` dedicated to storing uploaded files. Key security configurations include:
+The first step is setting up an Azure Blob Storage account named `sharesafelyblob` with a container `uploads` dedicated to storing uploaded files. Key security configurations include:
 
 - Enabling **Secure Transfer Required** for encrypted connections
 - Disabling **Blob Anonymous Access** to ensure files are only accessed by authorized users
