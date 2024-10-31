@@ -3,7 +3,7 @@
 ## Project Workflow
 
 <div align="center">
-<img alt-test="Project Workflow" src"https://github.com/user-attachments/assets/794e0ef7-3888-4e16-8966-68400a07b8ec">
+<img alt-text="Project Workflow" src="https://github.com/user-attachments/assets/794e0ef7-3888-4e16-8966-68400a07b8ec">
 </div>
 
 
