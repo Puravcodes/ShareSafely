@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Uploaded - ShareSafely</title>
+    <style>
+        
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e9ecef;
+    color: #343a40;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+    animation: fadeIn 0.6s ease-in-out;
+}
+
+
+h1 {
+    color: #17a2b8;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+    font-weight: 600;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: 600;
+    color: #495057;
+    margin-bottom: 5px;
+}
+
+input, button {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0 15px 0;
+    border-radius: 8px;
+    font-size: 1em;
+}
+
+
+input {
+    border: 1px solid #ced4da;
+    background-color: #f8f9fa;
+    transition: border 0.3s;
+}
+
+input:focus {
+    border: 1px solid #17a2b8;
+    outline: none;
+}
+
+
+button {
+    background-color: #17a2b8;
+    border: none;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+button:hover {
+    background-color: #138496;
+    transform: translateY(-2px);
+}
+
+
+a {
+    color: #17a2b8;
+    font-weight: 500;
+    transition: color 0.2s;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+
+a:hover {
+    color: #138496;
+    text-decoration: underline;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>File Uploaded Successfully!!</h1>
+        <p>Share this link to provide access to the file:</p>
+        <a href="{{ url }}" target="_blank">{{ url }}</a>
+    </div>
+</body>
+</html>
