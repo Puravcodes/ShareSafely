@@ -56,7 +56,7 @@ ShareSafelyApp/
 ├── app.py
 ├── templates/
 │ ├── upload.html
-│ └── link.html
+│ └── upload-link.html
 └── static/
 └── styles.css 
 
